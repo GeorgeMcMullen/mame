@@ -1226,6 +1226,11 @@ Core misc options
 	Forces MAME to skip displaying the game info screen. The default is
 	OFF (-noskip_gameinfo).
 
+-[no]skip_warnings
+
+	Forces MAME to skip displaying game warnings for invalid ROM/CHDs, etc.
+	The default is OFF (-noskip_warnings).
+
 -uifont <fontname>
 
 	Specifies the name of a font file to use for the UI font.  If this font
